@@ -18,7 +18,7 @@ em cerca de dois minutos o pdf formatado aparece na área de releases do reposit
 ## / escrevendo
 
 - cada arquivo `.md` numerado é uma parte do texto. os arquivos são unidos em ordem de nome, então `00-`, `01-`, `02-`... definem a ordem no pdf. adicione, renomeie ou remova arquivos à vontade.
-- os arquivos de exemplo mostram títulos, citações, notas de rodapé, citações longas, listas, figuras e tabelas. substitua o conteúdo pelo seu.
+- os arquivos de exemplo mostram títulos, citações, notas de rodapé, citações longas, listas e tabelas. substitua o conteúdo pelo seu.
 - adicione `{-}` após um título para deixá-lo sem numeração, ex.: `# introdução {-}`.
 - comentários html (`<!-- ... -->`) não aparecem no pdf.
 
@@ -29,10 +29,6 @@ o `_config.md` guarda título, autores, resumos, palavras-chave, margens, entrel
 ## ~ referências
 
 adicione entradas ao `bibliografia.bib` e cite com `[@chave]`. a seção de referências é gerada no fim do documento e lista apenas as obras citadas. veja a [sintaxe de citação do pandoc](https://pandoc.org/MANUAL.html#citations) para outras formas.
-
-## ~ imagens
-
-coloque as imagens em `_imagens/` e adicione uma linha de fonte logo abaixo de cada figura ou tabela, como mostrado em `02-figuras-tabelas.md`.
 
 ## / rodando localmente
 

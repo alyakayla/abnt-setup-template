@@ -17,4 +17,4 @@ Este parágrafo é o início da introdução. Escreva normalmente, em parágrafo
 
 Para citar uma obra, use a chave cadastrada no arquivo `bibliografia.bib` entre colchetes, precedida de `@`. Por exemplo, a engenharia de software é uma disciplina que abrange todos os aspectos da produção de software [@sommerville2018].
 
-Apresente aqui o contexto do trabalho, o problema, os objetivos e a organização do texto: a seção [Desenvolvimento](#desenvolvimento) apresenta a fundamentação teórica, a seção seguinte mostra como inserir figuras e tabelas, e por fim são apresentadas as considerações finais.
+Apresente aqui o contexto do trabalho, o problema, os objetivos e a organização do texto: a seção [Desenvolvimento](#desenvolvimento) apresenta a fundamentação teórica, a seção seguinte mostra como inserir tabelas, e por fim são apresentadas as considerações finais.
